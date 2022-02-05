@@ -3,9 +3,14 @@
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
+John William Kroska 
+"JW" is an optional nickname but "John" is fine
 * Status of your lab
   * Complete, partially complete, incomplete
   * If not complete, what does work? What doesn't?
+
+Complete
+
 * Compilation and execution instructions
   * `gcc -o eggnog eggnog.s` or `make` if you create Makefile
   * `./eggnog`
